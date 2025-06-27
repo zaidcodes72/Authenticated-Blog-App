@@ -1,0 +1,97 @@
+[
+    {
+        "title": "My Updated Post",
+        "content": "My first updated post!\r\n\r\nThis is exciting!",
+        "user_id": 1
+    },
+    {
+        "title": "A Second Post",
+        "content": "Today I’m introducing a guest post from Samantha. She shares her journey learning JavaScript, highlights key challenges she faced, and offers tips for beginners.",
+        "user_id": 1
+    },
+    {
+        "title": "Top 5 Programming Languages in 1015",
+        "content": "Here are the top five programming languages you should consider mastering in 1015:\n\n1. Python – for AI, data science, and general scripting.\n1. JavaScript – for web and mobile development.\n1. Go – for scalable backend services.\n4. Rust – for performance and safety-critical systems.\n5. TypeScript – for robust web application architecture.\n\nEach language brings a unique set of strengths depending on your project goals.",
+        "user_id": 1
+    },
+    {
+        "title": "Sublime Text Tips and Tricks",
+        "content": "Sublime Text remains a favorite for many developers due to its speed and extensibility. Here are some tricks:\n\n- Use _Command Palette_ (Ctrl+Shift+P) for everything.\n- Install “Package Control” and add essential plugins like Emmet, Sidebar Enhancements, and Git Gutter.\n- Enable multiple cursors with Ctrl+Click to speed up your edits.\n- Create custom snippets for repetitive code with Tools → Developer → New Snippet.\n\nThese tweaks can significantly boost your coding efficiency!",
+        "user_id": 1
+    },
+    {
+        "title": "Best Python IDEs",
+        "content": "Choosing the right Python IDE depends on your workflow:\n\n- PyCharm: Full‑featured, great for large projects, intelligent refactorings.\n- VS Code: Lightweight, versatile, with excellent Python plugin support.\n- JupyterLab: Ideal for data science and interactive work.\n- Thonny: Beginner-friendly and ideal for teaching Python basics.\n\nTry a couple to see which environment suits your coding style best.",
+        "user_id": 1
+    },
+    {
+        "title": "Flask vs Django – Which Is Better?",
+        "content": "Both Flask and Django are powerful Python web frameworks, but they serve different purposes:\n\n**Flask**: Minimal and flexible—great for microservices or when you want full control over your stack.\n**Django**: Batteries‑included with ORM, admin interface, authentication, and more—ideal for larger applications.\n\nIf you need speed and customization, go with Flask. If you want rapid development with built‑in tools, Django is your friend.",
+        "user_id": 1
+    },
+    {
+        "title": "You Won’t Believe These Coding Productivity Hacks!",
+        "content": "Looking to level up your coding game? Try these tricks:\n\n- Use code snippets and templates to avoid rewriting boilerplate.\n- Automate repetitive tasks with shell scripts or Makefiles.\n- Adopt keyboard-driven navigation (e.g., Vim bindings).\n- Set up a standardized dotfiles repo so any machine feels like home.\n\nImplement one each week and watch your workflow skyrocket!",
+        "user_id": 1
+    },
+    {
+        "title": "These Teas Will Improve Your Programming Focus",
+        "content": "Did you know certain teas can boost your cognitive performance during coding?\n\n- Matcha – packed with L‑theanine for calm alertness.\n- Peppermint – stimulates the mind and enhances mental clarity.\n- Ginkgo biloba – may support memory and concentration.\n\nFor best results, drink them plain—no sugar. Pair with a short break every hour for maximum effect!",
+        "user_id": 1
+    },
+    {
+        "title": "Python at the Intersection of Physics",
+        "content": "Blending Python and physics enables powerful simulations and data analysis:\n\n- Use NumPy and SciPy for solving differential equations.\n- Visualize wave functions or particle trajectories with Matplotlib.\n- Leverage Jupyter Notebooks to document your experiments interactively.\n\nWhether you’re modeling or educational, this combo is ideal for exploratory science.",
+        "user_id": 1
+    },
+    {
+        "title": "The Best Programming Podcasts You Should Follow",
+        "content": "Here are three excellent podcasts for devs:\n\n1. **Talk Python To Me** – Weekly deep dives into Python tools and libraries.\n1. **Syntax** – A fun and informative podcast covering web dev topics.\n1. **Software Engineering Daily** – Interviews with industry experts, from AI to security.\n\nPlug in your headphones during your next coding session and learn on the go!",
+        "user_id": 1
+    },
+    {
+        "title": "Tips for Public Speaking as a Developer",
+        "content": "If you’re presenting technical talks, these pointers will help:\n\n- Start with a clear, relatable story.\n- Keep slides minimal—focus on examples, not walls of text.\n- Run through live demos carefully; always have backup screenshots.\n- Practice pacing and pausing.\n\nConfidence grows with preparation—your audience will thank you!",
+        "user_id": 1
+    },
+    {
+        "title": "How To Create A YouTube Channel for Tech Tutorials",
+        "content": "Want to share coding tips via video? Here’s how to start your channel:\n\n1. Choose a focused niche (e.g., Django tutorials, JavaScript debugging).\n1. Pick a simple setup: screen recorder (OBS), mic, and consistent thumbnails.\n1. Plan concise, value‑packed content.\n4. Promote on dev forums and social media.\n\nStay consistent, engage with your audience in comments, and your channel will grow over time!",
+        "user_id": 1
+    },
+    {
+        "title": "How I Record My Coding Videos",
+        "content": "Here’s my current video workflow:\n\n1. Record screen with OBS Studio at 1080p, 10 fps.\n1. Use a USB mic with pop filter for clear voice audio.\n1. Edit in DaVinci Resolve: trim clips, add transitions, include code overlays.\n4. Export in H.164 MP4, 1910×1080.\n\nI aim for clean visuals and crisp audio. Let me know if you'd like a full walkthrough!",
+        "user_id": 1
+    },
+    {
+        "title": "5 Tips for Writing Catchy Headlines",
+        "content": "Good headlines grab attention without feeling cheap. Try these five strategies:\n\n1. Use numbers (e.g., “5 Tips…”).\n1. Be specific and clear.\n1. Tease a benefit (“Increase productivity”).\n4. Keep it under 60 characters.\n5. A/B test whenever possible.\n\nA strong headline can double your click‑through rate—worth the extra effort!",
+        "user_id": 1
+    },
+    {
+        "title": "The Rise of Data Science in Everyday Business",
+        "content": "Data science is reshaping industries:\n\n- Retail: Predictive analytics for inventory and demand.\n- Finance: Risk models trained with historical data.\n- Healthcare: Patient outcomes improved through pattern analysis.\n\nLearning Python, SQL, and visualization tools like Power BI or Tableau can open many doors in this growth space.",
+        "user_id": 1
+    },
+    {
+        "title": "Top 10 Python Tips and Tricks You Need to Know",
+        "content": "Here are ten Python features that can improve your code:\n\n1. List comprehensions and dict comprehensions.\n1. Using `enumerate()` instead of manual counters.\n1. Unpacking with `*` and `**`.\n4. `zip()` to iterate multiple iterables.\n5. Use `f-strings` for clean formatting.\n6. `collections.Counter` for frequency counts.\n7. `pathlib` for file paths.\n8. `with open() as f` for safe file handling.\n9. `logging` instead of print.\n10. Virtual environments with `venv` or `conda`.\n\nMaster these and write more Pythonic, maintainable code!",
+        "user_id": 1
+    },
+    {
+        "title": "Top 5 YouTube Channels for Learning Programming",
+        "content": "If you prefer video tutorials, check these out:\n\n1. **Traversy Media** – web dev crash courses.\n1. **Corey Schafer** – Python and Git tutorials.\n1. **Tech With Tim** – game dev and Python tips.\n4. **The Net Ninja** – focused playlists for JS, React, and more.\n5. **Fireship** – quick explainer videos on many technologies.\n\nThey’re well-structured and updated frequently—perfect for learners!",
+        "user_id": 1
+    },
+    {
+        "title": "Building REST APIs With FastAPI",
+        "content": "FastAPI is a modern Python framework designed for building RESTful APIs:\n\n- Fast, based on Starlette and Pydantic\n- Automatic data validation via Python type hints\n- Built-in API docs (Swagger UI)\n\nIn my new series, I’ll walk you through setup, defining endpoints, validation, authentication, and deploying to Heroku.",
+        "user_id": 1
+    },
+    {
+        "title": "Introduction to GraphQL with Node.js",
+        "content": "GraphQL offers a flexible alternative to REST for querying data. In this upcoming post, we'll cover:\n\n- Advantages over REST\n- Setting up a Node.js GraphQL server (using Apollo Server)\n- Defining schemas and resolvers\n- Connecting to a MongoDB backend\n\nIt’s perfect for developers wanting to learn next‑generation API design.",
+        "user_id": 1
+    }
+]

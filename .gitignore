@@ -1,0 +1,27 @@
+# Virtual environment
+myvenv/
+.myvenv/
+env/
+ENV
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Django secret files
+*.env
+*.log
+
+# Database
+db.sqlite3
+
+# Static & media
+staticfiles/
+media/
+
+# VS Code files
+.vscode/
+
+# Windows
+Thumbs.db
